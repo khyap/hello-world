@@ -1,2 +1,7 @@
 # hello-world
-My first repository
+
+Hello Humans,
+
+Kong Hing here saying hello to the world!
+
+
